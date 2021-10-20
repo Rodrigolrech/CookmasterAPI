@@ -72,7 +72,6 @@ Ter mongodb instalado em seu computador.
     "email": "string",
     "password": "string"
   }
-  ``
 
 ### 2 - Realizar o login de usuários.
 
