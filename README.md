@@ -22,7 +22,7 @@ Neste projeto,fui capaz de:
 
 ## O que foi desenvolvido
 
-Foi desenvolvido um app utilizando a arquitetura MSC!
+Foi desenvolvido uma api utilizando a arquitetura MSC!
 
 Neste novo projeto é possível fazer o cadastro e login de pessoas usuárias, onde apenas essas pessoas poderão acessar, modificar e deletar as receitas que cadastrou.
 
