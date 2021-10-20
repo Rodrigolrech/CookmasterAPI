@@ -42,7 +42,7 @@ A autenticação é feita via `JWT`.
 
 ## Como utlizar a api
 
-Para poder utilizar a API você precisar fazer um git clone do repositorio.
+Para poder utilizar a API você vai precisar fazer um git clone do repositorio.
 
 Depois é necessário instalar todas as dependências necessárias com npm install (para o sistema operacional Linux).
 
